@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Harshit 👋
 
-<!--
-**harshitmaster8851/harshitmaster8851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Making cloud infra reliable and pretty UIs that actually ship
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### brain.exe is running...
+```json
+{
+  "name": "Harshit",
+  "role": "Cloud & DevOps | Full-stack",
+  "location": "India",
+  "education": "B.Tech",
+  "stack": ["AWS","OCI","Terraform","Docker","Kubernetes","Python","Go","React","SQL"],
+  "about": "I build self-healing infra, CI/CD pipelines, and developer-friendly tools.",
+  "status": "Always shipping, always learning."
+}
