@@ -16,18 +16,18 @@
 
 ## brain.boot()
 
-```json
-{
-  "name": "Harshit",
-  "role": "Cloud • DevOps • Full-Stack",
-  "status": "Building scalable & self-healing cloud systems",
-  "languages": ["Python", "C", "C++", "SQL"],
-  "cloud": ["AWS", "Oracle Cloud (OCI)"],
-  "learning": ["Kubernetes", "Terraform", "CI/CD", "Ansible"],
-  "location": "India",
-  "code": "<Keep shipping />"
-}
-```
+<p align="center"><b>Profile Snapshot</b></p>
+
+| Key | Value |
+|---|---|
+| Name | Harshit |
+| Role | Cloud • DevOps • Full-Stack |
+| Status | Building scalable & self-healing cloud systems |
+| Languages | Python, C, C++, SQL |
+| Cloud | AWS, Oracle Cloud (OCI) |
+| Learning | Kubernetes, Terraform, CI/CD, Ansible |
+| Location | India |
+| Code Motto | Keep shipping |
 
 ---
 
