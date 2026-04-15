@@ -1,4 +1,4 @@
-<h1 align="center">Harshit Rastogi</h1>
+<h1 align="center">Hi, I'm Harshit Rastogi</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-0B0F19?style=for-the-badge&labelColor=1B2430&color=00C2FF" />
@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+Infrastructure+That+Doesn%27t+Blink;DevOps+Automation+With+Real+Reliability+Impact;Modern+Apps+Backed+By+Solid+Engineering" alt="Typing intro" />
 </p>
+
 
 ---
 
@@ -89,6 +90,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
 
 ## GitHub Stats
 
