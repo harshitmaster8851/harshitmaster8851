@@ -1,47 +1,37 @@
-<h1 align="center">Harshit</h1>
+<h1 align="center">Harshit Rastogi</h1>
 
 <p align="center">
-  <b>Cloud • DevOps • Full-Stack</b>
+  <img src="https://img.shields.io/badge/Software%20Engineer-0B0F19?style=for-the-badge&labelColor=1B2430&color=00C2FF" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps%20Engineer-0B0F19?style=for-the-badge&labelColor=1B2430&color=00E6A8" />
 </p>
 
 <p align="center">
-  Making cloud infra reliable and pretty UIs that actually ship.
+  <b>Engineering resilient systems that recover fast, deploy confidently, and scale without chaos.</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Scalable+%26+Self-Healing+Cloud+Systems;Automating+Infrastructure+That+Fixes+Itself;Shipping+Reliable+Systems+and+Clean+Interfaces" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+Infrastructure+That+Doesn%27t+Blink;DevOps+Automation+With+Real+Reliability+Impact;Modern+Apps+Backed+By+Solid+Engineering" alt="Typing intro" />
 </p>
-
----
-
-## brain.boot()
-
-<p align="center"><b>Profile Snapshot</b></p>
-
-| Key | Value |
-|---|---|
-| Name | Harshit |
-| Role | Cloud • DevOps • Full-Stack |
-| Status | Building scalable & self-healing cloud systems |
-| Languages | Python, C, C++, SQL |
-| Cloud | AWS, Oracle Cloud (OCI) |
-| Learning | Kubernetes, Terraform, CI/CD, Ansible |
-| Location | India |
-| Code Motto | Keep shipping |
 
 ---
 
 ## About Me
 
-<table align="center">
+<table>
   <tr>
-    <td>
+    <td width="62%" valign="top">
 
-- B.Tech Student
-- Focused on AWS, OCI, cloud automation, IaC, DevOps, and monitoring
-- Building self-healing systems, infra automation, dashboards, CI/CD pipelines, and modern UIs
-- Exploring Kubernetes, Terraform, SRE practices, and distributed systems
-- Love solving infrastructure problems and making systems auto-fix themselves
+- I build cloud-first systems with reliability and automation as non-negotiables.
+- My work centers around self-healing infrastructure, CI/CD pipelines, and production readiness.
+- I enjoy turning operational complexity into clean, repeatable workflows.
+
+  </td>
+    <td width="38%" valign="top">
+
+### Snapshot
+- Location: India
+- Focus: Cloud Reliability + DevOps
+- Style: Build fast, fix root causes, keep shipping
 
   </td>
   </tr>
@@ -49,10 +39,20 @@
 
 ---
 
-## Tech Stack & Tools
+## Cloud & DevOps Focus
+
+| Area | Outcome |
+|---|---|
+| Reliability Engineering | Stable services, faster recovery, fewer fire-fights |
+| Delivery Automation | Consistent CI/CD and safer releases |
+| Infrastructure Design | Scalable cloud architecture with predictable operations |
+| Operational Visibility | Dashboards and monitoring that drive faster decisions |
+
+---
+
+## Tech Stack
 
 <p align="center"><b>Cloud & DevOps</b></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle"/>
@@ -65,36 +65,36 @@
 </p>
 
 <p align="center"><b>Languages</b></p>
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<p align="center"><b>Frontend</b></p>
-
+<p align="center"><b>Frontend & Backend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-<p align="center"><b>Backend</b></p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 <p align="center"><b>Databases</b></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitmaster8851&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmaster8851&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
@@ -102,28 +102,19 @@
 ## Connect
 
 <p align="center">
+  <a href="https://github.com/harshitmaster8851" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/harshitmaster8851" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:harshitmaster8851@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/harshitmaster8851" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://harshit.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
-
----
-
-## Fun Facts
-
-- Most productive time: **12 AM - 3 AM**
-- Coffee consumed: **█████████░░ 80%**
-- I love making systems heal themselves without human intervention
-- Currently building: **Better habits, better infra, better me**
 
 ---
 
